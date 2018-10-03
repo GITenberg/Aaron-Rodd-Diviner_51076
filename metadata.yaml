@@ -1,0 +1,34 @@
+_repo: Aaron-Rodd-Diviner_51076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2016-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51076'
+  lccn: '21000930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcc 'PR'
+- !lcsh 'English fiction -- 20th century'
+- GITenberg
+tableOfContents: The Cunning of Harvey Grimm -- Poetry by compulsion -- An alliance
+  of thieves -- Ulysses of Wapping -- The mysterious assistant -- Paul Brodie strikes
+  -- The infidelity of Jack Lovejoy -- The yellow eye -- The vengeance of Rosa Letchowiski
+  -- The end of Jeremiah Sands.
+title: Aaron Rodd, Diviner
+url: http://www.gutenberg.org/ebooks/51076
